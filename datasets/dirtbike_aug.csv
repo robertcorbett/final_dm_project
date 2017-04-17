@@ -1,0 +1,105 @@
+model,manufacture,color,msrp,engine.cylinder,engine.stroke,displacement,bore,stroke,comp.ratio,starter,transmission,lubricator,final.drive,cooling,clutch,ignition,frame,front.suspension,rear.suspension,front.brake,rear.brake,wheelbase,seat.height,overall.length,overall.width,overall.height,clearance,fuel.cap,total.weight
+HondaCR85R,Honda,red,2999,1,2,84,48,48,8,,6,,chain,,,electronic,,Showa cartridge fork,Showa single shock,disc,disc,49.1,32.4,,,,12.2,1.35,144
+HondaCR85RB,Honda,red,3099,1,2,84,48,48,8,,6,,chain,,,electronic,,Showa cartridge fork,Showa single shock,disc,disc,49.1,34,,,,13.9,1.35,145
+HondaCRF100F,Honda,red,2249,1,4,99,53,45,9,,5,,chain,,,CD,,Showa cartridge fork,Showa single shock,drum,drum,49.2,30.9,,,,10,1.5,165
+HondaCRF150F,Honda,red,2999,1,4,157,64,49,9,,5,,O-ring,,,CDI,,Showa cartridge fork,Showa single shock,disc,drum,52.2,32.5,,,,10,2.2,216
+HondaCRF230F,Honda,red,3499,1,4,223,66,66,9,,6,,O-ring,,,CDI,,Showa cartridge fork,Showa single shock,disc,drum,54.1,34.1,,,,11.7,2.2,238
+HondaCRF250R,Honda,red,5899,1,4,249,78,52,12,,5,,chain,,,electronic,,Showa cartridge fork,Showa single shock,disc,disc,58.2,38,,,,14.2,2,204
+HondaCRF250X,Honda,red,6199,1,4,249,78,52,12,,5,,T-ring,,,electronic,,cartridge fork,Showa single shock,disc,disc,58.6,37.9,,,,14.2,2.2,228
+HondaCRF450R,Honda,red,6699,1,4,449,96,62,12,,5,,chain,,,electronic,,Showa cartridge fork,Showa single shock,disc,disc,58.7,37.6,,,,13.4,1.9,218.5
+HondaCRF450X,Honda,red,6999,1,4,449,96,62,12,,5,,T-ring,,,electronic,,Showa cartridge fork,Showa single shock,disc,disc,58.2,37.9,,,,13.7,2.27,255
+HondaCRF50F,Honda,red,1249,1,4,49,39,41,10,,3,,chain,,,CD,,telescopic fork,single shock,drum,drum,36,21.6,,,,5.8,0.8,104
+HondaCRF70F,Honda,red,1549,1,4,72,47,41,9,,3,,chain,,,CD,,telescopic fork,single shock,drum,drum,42,26.1,,,,7,1.5,128
+HondaCRF80F,Honda,red,1949,1,4,80,48,45,10,,5,,chain,,,CD,,Showa cartridge fork,single shock,drum,drum,47.6,28.9,,,,8.6,1.5,154
+HondaXR250R,Honda,red,4699,1,4,249,73,59,10,,6,,O-ring,,,electronic,,Kayaba cartridge fork,Kayaba single shock,disc,disc,55.1,36,,,,12.4,2.4,240
+HondaXR400R,Honda,red,5299,1,4,397,85,70,9,,5,,O-ring,,,electronic,,Showa cartridge fork,Showa single shock,disc,disc,56.1,36.5,,,,12.2,2.5,257
+HondaXR650L,Honda,red,5599,1,4,644,100,82,8,,5,,O-ring,,,electronic,,Showa cartridge fork,Showa single shock,disc,disc,57.3,37,,,,13,2.8,324
+HondaXR650R,Honda,red,6099,1,4,649,100,83,10,,5,,520 O-ring,,,electronic,,Kayaba cartridge fork,Kayaba single shock,disc,disc,58.3,36.8,,,,12,2.6,277
+KawasakiKDX200,Kawasaki,green,4099,1,2,198,66,58,8,,6,,,liquid,,electronic,perimeter,cartridge fork,single shock,disc,disc,56.5,36.2,83.5,35,48.4,13.4,2.9,222.6
+KawasakiKDX220R,Kawasaki,green,4499,1,2,216,69,58,7,,6,,,liquid,,electronic,,cartridge fork,single shock,disc,disc,56.5,36.2,83.5,35,48.4,13.4,2.9,222.6
+KawasakiKDX50,Kawasaki,green,1099,1,2,49,41,38,6,,1,,,air,,digital,,telescopic fork,twin shock,drum,drum,33.9,18.9,49,23.4,28.7,4.5,0.53,84
+KawasakiKLR250,Kawasaki,red,4099,1,4,249,74,58,11,,6,,,liquid,,CDI,double cradle,telescopic fork,single shock,disc,drum,55.7,33.7,84.3,33.7,47.6,10.6,2.9,258
+KawasakiKLR650,Kawasaki,red,5099,1,4,651,100,83,10,,5,,,liquid,,electronic,semi double cradle,air adjustable fork,single shock,disc,disc,58.9,35,86.8,37,53,9.4,6.1,337
+KawasakiKLX110,Kawasaki,green,1649,1,4,111,53,51,10,,3,,,air,,CDI,backbone,telescopic fork,single shock,drum,drum,41.9,25.6,61.2,26,37.6,7.5,1,141.1
+KawasakiKLX125,Kawasaki,green,2299,1,4,124,57,49,10,,5,,,air,,digital,high tensil,telescopic fork,single shock,drum,drum,49,30.5,72.2,30.3,41.7,10.2,1.7,176
+KawasakiKLX125L,Kawasaki,green,2499,1,4,124,57,48,10,,5,,,air,,digital,high tensil,telescopic fork,single shock,disc,drum,50,31.7,74.2,30.3,43.1,11.4,1.7,178.5
+KawasakiKLX300R,Kawasaki,green,4799,1,4,292,78,61,11,,6,,,liquid,,digital,perimeter,inverted cartridge fork,single shock,disc,disc,56.5,36.4,83.3,35.8,48,12.6,2.6,233.7
+KawasakiKX100,Kawasaki,green,3349,1,2,99,52,46,10,,6,,,liquid,,digital,perimeter,inverted telescopic fork,single shock,disc,disc,50.8,34.3,75.2,28.9,43.5,15,1.5,149.9
+KawasakiKX125,Kawasaki,green,5099,1,2,124,54,55,11,,6,,,liquid,,digital,perimeter,inverted telescopic fork,single shock,disc,disc,57.9,37.2,85.2,33.1,49.8,13.4,2.2,192
+KawasakiKX250,Kawasaki,green,5999,1,2,294,66,72,10,,5,,,liquid,,digital,perimeter,inverted telescopic fork,single shock,disc,disc,58.3,38,86,33.1,49.8,13.4,0,213.8
+KawasakiKX250F,Kawasaki,green,5599,1,4,249,77,54,13,,5,,,liquid,,digital,perimeter,inverted telescopic fork,single shock,disc,disc,58.1,37.8,85.4,33,50,13.4,2,203.9
+KawasakiKX65,Kawasaki,green,2799,1,2,65,45,42,8,,6,,,liquid,,electronic,semi double cradle,cartridge fork,single shock,disc,disc,44.1,29.9,62.6,29.9,37.6,12,1,125.6
+KawasakiKX85,Kawasaki,green,2999,1,2,84,48,46,10,,6,,,liquid,,digital,perimeter,telescopic fork,single shock,disc,disc,49.4,33.1,72,28.9,41.5,13.4,1.5,143.3
+KTM125SX,KTM,orange,5298,1,2,125,54,54,,kick,5,oil,,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,57.91,36.4,,,,15.35,2,203
+KTM200EXC,KTM,orange,5848,1,2,193,64,60,,kick,6,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.1,36.4,,,,15.35,2.77,220
+KTM250EXC,KTM,orange,6398,1,2,249,66,72,,kick,5,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.1,36.4,,,,15.15,2.77,226.2
+KTM250SX,KTM,orange,6248,1,2,249,66,72,,kick,5,,520 regina,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.1,36.4,,,,15.1,2,215.4
+KTM300EXC,KTM,orange,6498,1,2,293,72,72,,kick,5,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.1,36.4,,,,15.15,2.77,224.4
+KTM300MXC,KTM,orange,6398,1,2,293,72,72,,kick and electric,6,premix,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15.15,2.77,224.4
+KTM400EXC,KTM,orange,7198,1,4,398,89,64,11,kick and electric,6,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15.15,2.11,250
+KTM450EXC,KTM,orange,7289,1,4,447,89,72,11,kick and electric,6,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15.15,2.11,248.7
+KTM450MXC,KTM,orange,7048,1,4,448,89,72,11,kick and electric,6,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15.15,3.43,248.7
+KTM450SX,KTM,orange,6498,1,4,449,95,63,12,kick,4,oil,520 regina,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15,1.85,231.93
+KTM50MINI,KTM,orange,1598,1,2,49,40,40,,kick,1,oil,420 regina,air,centrifugal,selectra analog,central double,Marzocchi telescopic,single shock,drum,drum,35.63,20.9,,,,7.48,0.53,83.33
+KTM50SENIOR,KTM,orange,2148,1,2,49,40,40,,kick,1,mixture,420 regina,air,centrifugal,selectra analog,double cradle,Marzocchi telescopic,single shock,disc,drum,40.55,25.6,,,,10.04,0.53,84.65
+KTM50SXPROJUNIOR,KTM,orange,2998,1,2,49,40,40,,kick,1,mixture,420 regina,liquid,centrifugal,selectra analog,double cradle,Marzocchi telescopic,single shock,disc,drum,35.82,24,,,,8.66,0.48,82.89
+KTM50SXPROSENIOR,KTM,orange,3298,1,2,49,40,40,,kick,,mixture,chain,liquid,centrifugal,selectra analog,double cradle,Marzocchi telescopic,single shock,disc,disc,40.55,25.6,,,,10.04,0.48,85.55
+KTM525EXC,KTM,orange,7548,1,4,510,95,72,11,kick and electric,6,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15.15,2.11,249.3
+KTM525MXC,KTM,orange,7348,1,4,510,95,72,11,kick and electric,6,oil,520 x-ring chain,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15.15,3.43,249.3
+KTM525SX,KTM,orange,6798,1,4,510,95,72,11,kick,4,oil,520 regina,liquid,wet multi-disc,digital,chromoly,WP,WP_PDS,disc,disc,58.3,36.4,,,,15,1.85,233.69
+KTM65SX,KTM,orange,3498,1,2,65,41,45,,kick,6,mixture,420 regina,liquid,wet multi-disc,digital,double cradle,Marzocchi telescopic,single shock,disc,disc,44.76,29.5,,,,11.41,0.87,122.57
+KTM85SX,KTM,orange,3598,1,2,86,49,49,,kick,6,mixture,428 regina,liquid,wet multi-disc,digital,double cradle,WP,single shock,disc,disc,50.31,35.4,,,,16.33,1.32,149.9
+SuzukiDR200SE,Suzuki,blue/white,3899,1,4,199,66,58,9,,5,wet sump,520 chain,,,digital,,telescopic fork,link type,disc,drum,55.3,31.9,84.9,31.7,46.7,10.2,3.4,249
+SuzukiDR200SE,Suzuki,yellow,3899,1,4,199,66,58,9,,5,wet sump,520 chain,,,digital,,telescopic fork,link type,disc,drum,55.3,31.9,84.9,31.7,46.7,10.2,3.4,249
+SuzukiDR650SE,Suzuki,blue/white,4999,1,4,644,100,82,10,,5,wet sump,525 chain,air/oil,,digital,,telescopic fork,link type,disc,disc,58.7,34.8,88.8,34.1,47,10.4,3.4,324
+SuzukiDR650SE,Suzuki,yellow,4999,1,4,644,100,82,10,,5,wet sump,525 chain,air/oil,,digital,,telescopic fork,link type,disc,disc,58.7,34.8,88.8,34.1,47,10.4,3.4,324
+SuzukiDRZ110,Suzuki,yellow,1699,1,4,111,53,51,10,,3,wet sump,420 chain,air,auto,CD,,telescopic fork,link type,drum,drum,41.9,25.6,61.2,26,37.6,7.5,1,141.1
+SuzukiDRZ125,Suzuki,yellow,2299,1,4,124,57,49,10,,5,wet sump,428 chain,air,,CDI,,telescopic fork,link type,drum,drum,49,30.5,72.2,30.3,41.7,10.2,1.7,174
+SuzukiDRZ125L,Suzuki,yellow,2499,1,4,124,57,49,10,,5,wet sump,428 chain,air,,CDI,,telescopic fork,link type,disc,drum,50,32,74.2,30.3,43.1,11.4,1.7,176
+SuzukiDRZ250,Suzuki,yellow,4699,1,4,249,73,60,10,,6,wet sump,chain,air/oil,,CDI,,telescopic fork,link type,disc,disc,57.3,35,84.6,34.6,47.4,11.8,2.8,253
+SuzukiDRZ400E,Suzuki,yellow,5499,1,4,398,90,63,12,,5,wet sump,520 chain,liquid,,digital,,telescopic fork,link type,disc,disc,58.1,37.2,88,32.5,49,12.8,2.6,262
+SuzukiDRZ400S,Suzuki,blue/white,5499,1,4,398,90,63,11,,5,dry sump,520 chain,liquid,,digital,,telescopic fork,link type,disc,disc,58.5,36.8,90.9,34.4,48.4,11.8,2.64,291
+SuzukiDRZ400S,Suzuki,yellow,5499,1,4,398,90,63,11,,5,dry sump,520 chain,liquid,,digital,,telescopic fork,link type,disc,disc,58.5,36.8,90.9,34.4,48.4,11.8,2.64,291
+SuzukiJR50,Suzuki,yellow,1099,1,2,49,41,38,6,,1,oil,420 chain,air,,CDI,,telescopic fork,twin shock,drum,drum,33.9,18.9,49,23.4,28.7,4.5,0.53,84
+SuzukiRM125,Suzuki,yellow,5099,1,2,125,54,54,9,,6,premix,520 chain,liquid,,digital,,telescopic fork,link type,disc,disc,57.1,37.4,84.4,33.1,50.2,13.8,2.1,192
+SuzukiRM250,Suzuki,yellow,5999,1,2,249,66,72,9,,5,premix,520 chain,liquid,,digital,,telescopic fork,link type,disc,disc,57.9,37.9,85.6,33.1,50.4,13.8,2.1,212
+SuzukiRM65,Suzuki,yellow,2849,1,2,65,44,42,8,,6,premix,428 chain,liquid,,CDI,,telescopic fork,link type,disc,disc,44.1,29.9,62.6,29.9,37.6,12,1,125.7
+SuzukiRM85,Suzuki,yellow,3099,1,2,85,48,47,10,,6,premix,428 chain,liquid,,CDI,,cartridge fork,link type,disc,disc,48.8,33.5,71.1,28.9,43.3,12.8,1.3,143
+SuzukiRM85L,Suzuki,yellow,3199,1,2,85,48,47,10,,6,premix,428 chain,liquid,,CDI,,cartridge fork,link type,disc,disc,50.4,34.4,74.6,28.9,45.9,14,1.3,152
+SuzukiRMZ250,Suzuki,yellow,5599,1,4,249,77,54,13,,5,semi-dry sump,520 chain,liquid,,digital,,telescopic fork,link type,disc,disc,58.1,37.8,85.4,33.1,50,13.4,2,204
+SuzukiRMZ450,Suzuki,yellow,6499,1,4,449,96,63,12,,4,semi-dry sump,520 chain,liquid,,digital,,telescopic fork,link type,disc,disc,58.5,39.2,86,32.8,50,13.8,1.8,220
+YamahaPW50,Yamaha,blue/white,1079,1,2,49,40,39,6,,1,,shaft,air,,CDI,,telescopic fork,twin shock,drum,drum,33.7,19.1,49,22.6,28.1,4.1,0.5,82
+YamahaPW80,Yamaha,blue/white,1249,1,2,79,47,45,7,,3,,chain,air,,CDI,,telescopic fork,single shock,drum,drum,41,34.6,60.6,25.2,34.6,7.3,1.3,126
+YamahaTTR125E,Yamaha,blue/white,2399,1,4,124,54,54,10,,5,,chain,air,,CDI,,telescopic fork,single shock,drum,drum,49,30.5,72,30.9,41.5,10.4,1.74,179
+YamahaTTR125L,Yamaha,blue/white,2499,1,4,124,54,54,10,,5,,chain,air,,CDI,,telescopic fork,single shock,disc,drum,50,31.7,74.2,31.3,42.7,11.6,1.74,172
+YamahaTTR230,Yamaha,blue/white,3299,1,4,223,70,58,,,6,,chain,air,,CDI,,telescopic fork,single shock link type,disc,drum,54.1,34.8,81.3,31.5,46.5,12,2.1,242
+YamahaTTR250,Yamaha,blue/white,4399,1,4,249,73,59,10,,6,,chain,air,,CDI,,telescopic fork,single shock link type,disc,disc,55.3,36,82.5,32.9,49.6,12,2.5,249
+YamahaTTR90E,Yamaha,blue/white,1699,1,4,89,47,52,8,,3,,chain,air,,CDI,,telescopic fork,single shock,drum,drum,40.9,24.6,60,23.8,34.1,6.3,1.1,139
+YamahaTW200,Yamaha,silver,3699,1,4,196,67,56,10,,5,,chain,air,,CDI,,Kayaba telescopic fork,Kayaba single shock,disc,drum,52.2,31.1,82.3,32.3,44.1,10.4,1.9,260
+YamahaWR250F,Yamaha,blue/white,5899,1,4,249,77,54,12,,5,,chain,liquid,,digital,,Kayaba telescopic fork,Kayaba single shock,disc,disc,58.1,38.4,86.2,32.7,50.8,14.57,2.1,228
+YamahaWR450F,Yamaha,blue/white,6599,1,4,449,95,63,12,,5,,chain,liquid,,digital,,telescopic fork,single shock,disc,disc,58.4,38,86.1,32.7,50.98,14.57,2.1,244
+YamahaXT225,Yamaha,silver,4099,1,4,223,70,58,10,,6,,O-ring chain,air,,CDI,,telescopic fork,single shock,disc,drum,,,81.5,31.7,,,,
+YamahaYZ125,Yamaha,blue/white,5299,1,4,124,54,54,9,,6,,chain,liquid,,digital,,Kayaba telescopic fork,Kayaba single shock,disc,disc,56.5,39.1,84,32.6,51.9,15.8,2.1,189
+YamahaYZ250,Yamaha,blue/white,6099,1,2,249,66,72,9,,5,,chain,liquid,,digital,,Kayaba telescopic fork,Kayaba single shock,disc,disc,58.3,39,85.9,32.6,51.5,15.6,2.1,211
+YamahaYZ250F,Yamaha,blue/white,5699,1,4,249,77,53,12,,5,,chain,liquid,,digital,,Kayaba telescopic fork,Kayaba single shock,disc,disc,58,39.2,85.2,32.6,51.3,15,1.8,206
+YamahaYZ450F,Yamaha,blue/white,6399,1,4,449,95,63,12,,4,,chain,liquid,,digital,,Kayaba telescopic fork,Kayaba single shock,disc,disc,58.5,39.2,85.5,32.6,51.3,14.6,1.8,220
+YamahaYZ85,Yamaha,blue/white,3099,1,2,85,47,48,8,,6,,chain,liquid,,digital,,Kayaba telescopic fork,Kayaba single shock,disc,disc,49.5,34,71.7,29.8,45.7,13.8,1.3,146
+HusabergFC450,Husaberg,blue/yellow,8998,1,4,449,100,57,13,kick,4,oil,,,wet multi-disc,digital,,WP,WP_PDS,caliper,caliper,58,36,,,,14.9,2.37,227
+HusabergFC550,Husaberg,blue/yellow,8998,1,4,549,100,57,11.8,kick,4,oil,,,wet multi-disc,,,WP,WP_PDS,caliper,caliper,58,36,,,,14.9,2.37,227
+HusqvarnaTC250,Husqvarna,blue/yellow,5999,1,4,249,76,55,,,5,,,liquid,,digital,,Marzocchi telescopic,single shock,disc,disc,58,38,,,,13.4,2.4,212
+HusqvarnaTC510,Husqvarna,blue/yellow,6899,1,4,501,97,67,,,5,,,liquid,,digital,,Marzocchi telescopic,single shock,disc,disc,58,38.3,,,,13.4,2.4,235
+HusqvarnaTC450,Husqvarna,blue/yellow,6499,1,4,449,97,60,,,5,,,liquid,,digital,,Marzocchi telescopic,single shock,disc,disc,58,38,,,,13.4,2.4,231
+HusqvarnaTE250,Husqvarna,blue/yellow,6299,1,4,249,76,55,,,6,,,liquid,,digital,,Marzocchi inverted tele,single shock,disc,disc,58,38,,,,13.4,2.4,232
+HusqvarnaTE450,Husqvarna,blue/yellow,6889,1,4,449,97,60,,kick,6,,,liquid,,digital,,Marzocchi inverted tele,single shock,disc,disc,57,38,,,,13.4,2.4,237
+HusqvarnaTE510,Husqvarna,blue/yellow,7199,1,4,501,97,67,,kick,6,,,liquid,,digital,,Marzocchi inverted tele,single shock,disc,disc,57,37,,,,13.4,2.4,239
+HusqvarnaTE510C,Husqvarna,red/white,19500,1,4,501,97,68,,kick,6,,,liquid,,digital,,Marzocchi inverted tele,single shock,disc,disc,57,37,,,,13.4,2.4,238
+HusqvarnaSM510R,Husqvarna,red/white,6799,1,4,501,97,67.8,,kick,6,,,liquid,,digital,,Marzocchi inverted tele,single shock,disc,disc,58.86,35.83,,,,10.63,2.4,241
+HusqvarnaSM450R,Husqvarna,blue/yellow,7299,1,4,449,97,60.67,,kick,6,,,liquid,,digital,,Marzocchi inverted tele,single shock,disc,disc,58.86,35.83,,,,10.63,2.4,240
+GasGasPRO125,GasGas,yellow/black,5199,1,2,124.8,54,54.5,,,6,,,liquid,,digital,chromoly,Marzocchi telescopic,link type,piston,piston,51.97,25,,,,13.6,0.8,139
+GasGasPRO200,GasGas,yellow/black,5299,1,2,175.3,64,54.5,,,6,,,liquid,,digital,chromoly,Marzocchi telescopic,link type,piston,piston,51.97,25,,,,13.6,0.8,141
+GasGasPRO280,GasGas,red/black,6249,1,2,272.2,76,60,,,6,,,liquid,,digital,chromoly,Marzocchi telescopic,link type,piston,piston,51.97,25,,,,13.6,0.8,145
+GasGasPRO280,GasGas,blue/black,6249,1,2,272.2,76,60,,,6,,,liquid,,digital,chromoly,Marzocchi telescopic,link type,piston,piston,51.97,25,,,,13.6,0.8,145
+GasGasPRO300,GasGas,silver,6249,1,2,294.1,79,60,,,6,,,liquid,,digital,chromoly,Marzocchi telescopic,link type,piston,piston,51.97,25,,,,13.6,0.8,146
+ATK450ENDURO,ATK,blue,7895,1,4,449,97,61,12.5,electric,5,,,liquid,,digital,,Ohlins fork,Ohlins shock,piston,piston,58.5,38,,,,14.2,2.6,245
+ATK450XC,ATK,blue,7595,1,4,449,97,61,12.5,electric,5,,,liquid,,digital,,Ohlins fork,Ohlins shock,piston,piston,58.5,,,,,,2.6,242
+ATK450MX,ATK,blue,7295,1,4,449,97,61,12.5,electric,5,,,liquid,,digital,,Ohlins fork,Ohlins shock,piston,piston,58.5,,,,,,2,242
